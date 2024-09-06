@@ -11,7 +11,7 @@ Then add it to your *$PATH* by editing *~/.bashrc*.
 3. Set execute permission bit for *send*.
 
 ## Usage
-For help call:\
+For help call:  
 *$ send -h*
 
 ### Setup
